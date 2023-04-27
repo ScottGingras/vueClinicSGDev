@@ -1,3 +1,3 @@
 # Scott Gingras Vue 3 + Vite Dev
 
-Testing and prototype site
+Pincher Creek Clinic testing and prototype web app
